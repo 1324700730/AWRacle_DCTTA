@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
+
+/results/
+/logs/
+/experiments/
+/data/*
+!/data/demo/
+
+# Pretrained weights are delivered separately to the student, not through Git.
+/assets/checkpoints/awracle_best.ckpt
+/assets/clip/ViT-B-32.pt
+/models/dctta/assets/vgg19-dcbb9e9d.pth

@@ -1,0 +1,2 @@
+# Compatibility alias for tools that expect the conventional plural filename.
+-r requirement.txt

@@ -1,0 +1,15 @@
+{
+  "protocol": "seen_support_pool",
+  "split": "train",
+  "source_dataset": "AWRaCLe Train/Derain low",
+  "source_manifest_index": 0,
+  "pairs": [
+    {
+      "degraded": "support/degraded.jpg",
+      "clean": "support/clean.jpg",
+      "task": "derain",
+      "source_dataset": "AWRaCLe Train/Derain low",
+      "train_manifest_index": 0
+    }
+  ]
+}

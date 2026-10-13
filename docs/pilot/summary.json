@@ -1,0 +1,13 @@
+{
+  "mode": "dctta",
+  "operator": "derain_rain100l_pilot",
+  "sample_count": 8,
+  "evaluated_sample_count": 8,
+  "mean_psnr": 37.106044925537994,
+  "mean_ssim": 0.9609807580709457,
+  "total_adaptation_seconds": 23.4654798139818,
+  "total_evaluation_seconds": 1.7497437540441751,
+  "fisher_seconds": 11.115633574314415,
+  "total_wall_seconds": 44.5346430609934,
+  "peak_cuda_memory_bytes": 33566055424
+}

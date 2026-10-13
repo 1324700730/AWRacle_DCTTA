@@ -1,0 +1,13 @@
+{
+  "protocol": "seen_support_pool",
+  "split": "train",
+  "description": "List only original-training Support pairs. Relative image paths are resolved from this manifest's directory.",
+  "pairs": [
+    {
+      "degraded": "support/degraded_image.png",
+      "clean": "support/clean_image.png",
+      "task": "derain",
+      "source_dataset": "replace_with_dataset_name"
+    }
+  ]
+}

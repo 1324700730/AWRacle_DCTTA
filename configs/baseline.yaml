@@ -1,0 +1,10 @@
+mode: baseline
+operator: null
+checkpoint: assets/checkpoints/awracle_best.ckpt
+input_dir: null
+support_degraded: null
+support_clean: null
+output_dir: results/baseline
+max_samples: 0
+seed: 23
+device: cuda:0

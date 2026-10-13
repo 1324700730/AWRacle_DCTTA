@@ -1,0 +1,107 @@
+{
+  "dataset": "Rain100L",
+  "pilot_count": 8,
+  "seed": 23,
+  "test_manifest": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/derain_test_rain100l.json",
+  "test_manifest_sha256": "9faaa1c31b20ed0057a4543538500d97a8bcd384ec2a32f8f6d00781b1d920e3",
+  "train_manifest": "/home/16t/hjw_data/Awracle/data/data_awracle/Train/Derain/derain_train_low.json",
+  "train_manifest_sha256": "93f6bb60be1d9cf184325bc6587b9a14417d80cc32d9d216930d28880ebad140",
+  "support_degraded": "/home/16t/hjw_data/Awracle/data/data_awracle/Train/Derain/input/4324.jpg",
+  "support_clean": "/home/16t/hjw_data/Awracle/data/data_awracle/Train/Derain/target/4324.jpg",
+  "support_degraded_sha256": "499287e914887dc778e3a492186e5c14bf79f1103c01e5ccdc0a44095b79dbb6",
+  "support_clean_sha256": "7b77b87063d758ba2e0373415e13c8df9147f7e9e84c17b100751e09e3cc22d1",
+  "support_source_is_training_manifest": true,
+  "support_path_and_sha256_disjoint_from_all_test_images": true,
+  "query_gt_pairs": [
+    {
+      "id": "6",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/6.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/6.png",
+      "size_wh": [
+        480,
+        320
+      ],
+      "query_sha256": "1e0979eb54d5f74ad8e07ad1a9b157f5ecd4284512cddfe1f33ae409978e4613",
+      "gt_sha256": "597ec5d4b764af54b3e60a9405542bbe71bcc640123cda04785ceb10b2384023"
+    },
+    {
+      "id": "13",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/13.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/13.png",
+      "size_wh": [
+        480,
+        320
+      ],
+      "query_sha256": "3d22e3f10f6f72e3bcef275010e225bef5c20415c7ab8b8bf91a8c16d2eadf80",
+      "gt_sha256": "4791ea1a52331f79acb75ef1176acfb2a1e5143efab217ddf8faab9a019fe2c5"
+    },
+    {
+      "id": "24",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/24.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/24.png",
+      "size_wh": [
+        320,
+        480
+      ],
+      "query_sha256": "44d5ce99461c7e9ccd2f127e23e4e600fb59de1270d2d7c1231df2a6058fe6ad",
+      "gt_sha256": "55151f432fdd198671f9c2efb9dc73193e33de14ba435dcaba49c3807d1c4fc6"
+    },
+    {
+      "id": "29",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/29.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/29.png",
+      "size_wh": [
+        480,
+        320
+      ],
+      "query_sha256": "9095db0d3ea071b2c4a643d92d8abfbff584339ae5551e21be08db7855fe9fa7",
+      "gt_sha256": "3c2d7b529e62d120589fd6cfc05062fe3b4acb19be073adf653f13396f28b3f0"
+    },
+    {
+      "id": "48",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/48.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/48.png",
+      "size_wh": [
+        480,
+        320
+      ],
+      "query_sha256": "23d737fac0bb63d6de507c3349f1f669dcea3ad068bc8719161d552d186454e0",
+      "gt_sha256": "0803a807ce7ad44f0de4de18d007867ff400fee90d058198564760baf0da086b"
+    },
+    {
+      "id": "72",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/72.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/72.png",
+      "size_wh": [
+        320,
+        480
+      ],
+      "query_sha256": "fbad434e2b37c364cc492a568035e41edd2d843637199a952c3c544cc3479a21",
+      "gt_sha256": "d501a2de7efe416483692d84bf06c11375d6cdbd3d4019b34443a44b33568170"
+    },
+    {
+      "id": "83",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/83.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/83.png",
+      "size_wh": [
+        480,
+        320
+      ],
+      "query_sha256": "7bd542b05e4ca0a9993137dcc5a113eabaa7da7aaddb709266ac3c4263324ae9",
+      "gt_sha256": "4ae875d05e8ead5b28fb5d8a771c2379918a02982ef8a22e1043324488d723b9"
+    },
+    {
+      "id": "89",
+      "query": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/input/89.png",
+      "gt": "/home/16t/hjw_data/Awracle/data/data_awracle/Rain13K/Rain100L/target/89.png",
+      "size_wh": [
+        480,
+        320
+      ],
+      "query_sha256": "e97c0d036fefd8913ff188a5f00d0a026673c5f92217c38e0da76fde39acd945",
+      "gt_sha256": "9e8400a05ba2b2e0398ee28c2da25af157d93cf460508954d6cf9885d5b78457"
+    }
+  ],
+  "selection_method": "Python random.Random(seed).sample over the 100-entry source test manifest, then numeric filename sort",
+  "image_handling": "Absolute symlinks; native dimensions preserved; runners crop at most 15 right/bottom pixels to a multiple of 16"
+}
