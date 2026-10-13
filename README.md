@@ -24,8 +24,8 @@ The two DCTTA PromptIR checkpoints are deliberately excluded: they cannot be loa
 The three large weights are ignored by Git and are **not** in the GitHub clone. Obtain them from the project owner and place them with these exact names under the cloned repository root:
 
 ```bash
-git clone <repository-url>
-cd AWRaCLe_DCTTA
+git clone https://github.com/1324700730/AWRacle_DCTTA.git
+cd AWRacle_DCTTA
 # Copy the three received files to:
 # assets/checkpoints/awracle_best.ckpt
 # assets/clip/ViT-B-32.pt
